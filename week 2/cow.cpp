@@ -1,12 +1,11 @@
-#include<iostream>
+#iclude<iostream>
 using namespace std;
-
-
-main() 
+main()
 {
-cout<< "                   .::---::..             "<<endl;
-cout<< "                 .-------------.          "<<endl;
-cout<< "               .-----------------.        "<<endl;
+cout<<"       ----------------------------------"<<endl;
+cout<< ""<<endl;
+cout<< ""<<endl;
+cout<< "          o  "<<endl;
 cout<< "               ----------------:.           "<<endl;
 cout<< "              :-----------::.                "<<endl;
 cout<<"               -----------:.                 "<<endl;
@@ -14,5 +13,14 @@ cout<<"               :-------------:..                "<<endl;
 cout<<"                :----------------:.             "<<endl;
 cout<<"                 .---------------:            "<<endl;
 cout<<"                   .:---------:.             "<<endl;
+
+
+
+
+
+
+
+
+
 
 }
